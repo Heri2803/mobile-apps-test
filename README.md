@@ -53,8 +53,8 @@ Task Management App adalah aplikasi mobile full-stack yang memungkinkan pengguna
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/username/task-management-app.git
-   cd task-management-app
+   git clone https://github.com/Heri2803/mobile-apps-test.git
+   cd mobile-apps-test
    ```
 
 2. **Install dependencies**
