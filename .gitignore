@@ -1,0 +1,7 @@
+# Ignore .env file to avoid pushing sensitive data to GitHub
+backend/.env
+backend/node_modules/
+
+**/node_modules/
+
+**/.env
